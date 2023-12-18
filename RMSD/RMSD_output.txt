@@ -1,0 +1,10 @@
+RMSD between e_faecalis and human_zinc: 12.7062406539917
+RMSD between e_faecalis and MRSA: 6.270388603210449
+RMSD between e_faecalis and s_pneumoniae: 1.2360318899154663
+RMSD between e_faecalis and s_aureus: 5.952870845794678
+RMSD between human_zinc and MRSA: 35.31450653076172
+RMSD between human_zinc and s_pneumoniae: 29.82817840576172
+RMSD between human_zinc and s_aureus: 35.388031005859375
+RMSD between MRSA and s_pneumoniae: 6.8817291259765625
+RMSD between MRSA and s_aureus: 0.3838978707790375
+RMSD between s_pneumoniae and s_aureus: 6.602661609649658
