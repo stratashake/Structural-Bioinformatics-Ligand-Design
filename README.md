@@ -29,7 +29,7 @@ The repository includes the following supplementary files and resources:
 - **PDBs of Primary Proteins (Original)**: AlphaFold 3D files of the DUF368 protein structures and human .PDB homolog protein.
 - **RMSD (Root Mean Square Deviation)**: Presents a statistical measure of structural deviations.
 - **ADME and Antibiotics Comparison.csv**: A concise comparison of ADME profiles for theoretical and established antibiotics with recommendations for the theorectical ligand
-- that was identified in "Report on Structure Analysis.pdf"
+that was identified in "Report on Structure Analysis.pdf"
 - **Report on Structure Analysis.pdf**: A detailed report providing insights into the structural analysis of the DUF368 protein and a theoretical inhibitory/antibiotic ligand.
 - **Report on Antibiotic Drug Development for PopT Target.pdf**: A theoretical and comprehensive high-level strategy for a novel antibiotic,
 including target profiling, bioinformatics analysis, preclinical assay planning, biomarker
